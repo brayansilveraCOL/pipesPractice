@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pipesPractice"
+    }
+  },
+  "defaultProject": "pipesPractice",
+  "cli": {
+    "analytics": false
+  }
 }
